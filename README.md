@@ -9,9 +9,9 @@ No, this is not a plugin for VS Code! Your absolutely should check out the [Tail
 Add via your favorite package manager. 
 
 ```bash
-$ npm i -D tailwind-vscode
+$ npm i -D @githubocto/tailwind-vscode
 $ # or yarn, I ain't gonna judge
-$ yarn add -D tailwind-vscode
+$ yarn add -D @githubocto/tailwind-vscode
 ```
 
 Then add the plugin to your `tailwind.config.js`:
@@ -19,7 +19,7 @@ Then add the plugin to your `tailwind.config.js`:
 ```js
 module.exports = {
   /* other config stuff here */
-  plugins: [require('tailwind-vscode')],
+  plugins: [require('@githubocto/tailwind-vscode')],
 }
 ```
 
