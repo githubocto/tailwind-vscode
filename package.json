@@ -1,6 +1,6 @@
 {
   "name": "@githubocto/tailwind-vscode",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Defines Tailwind color classes for VS Code extension colors",
   "main": "index.js",
   "author": "Idan Gazit <idan@gazit.me>",
@@ -10,5 +10,13 @@
   },
   "devDependencies": {
     "prettier": "^2.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubocto/tailwind-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/githubocto/tailwind-vscode/issues"
+  },
+  "homepage": "https://github.com/githubocto/tailwind-vscode#readme"
 }
