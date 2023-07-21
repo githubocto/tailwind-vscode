@@ -1,6 +1,6 @@
 {
   "name": "@githubocto/tailwind-vscode",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Defines Tailwind color classes for VS Code extension colors",
   "main": "index.js",
   "author": "Idan Gazit <idan@gazit.me>",
