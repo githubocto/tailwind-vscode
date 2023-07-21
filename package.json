@@ -6,7 +6,7 @@
   "author": "Idan Gazit <idan@gazit.me>",
   "license": "MIT",
   "peerDependencies": {
-    "tailwindcss": "2.0.0-alpha.24 || ^2.0.0"
+    "tailwindcss": "2.0.0-alpha.24 || ^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
